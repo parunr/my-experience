@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://parunr.github.io/my-experience/feed.xml" rel="self" type="application/atom+xml" /><link href="https://parunr.github.io/my-experience/" rel="alternate" type="text/html" hreflang="en" /><updated>2026-07-06T15:25:03-04:00</updated><id>https://parunr.github.io/my-experience/feed.xml</id><title type="html">Arun Reddy</title><subtitle>16+ years architecting agentic AI, enterprise systems, and cloud platforms across IBM, Infosys, Accenture, and Avanade.</subtitle><author><name>Arun Reddy</name></author><entry><title type="html">Welcome — what I plan to write about here</title><link href="https://parunr.github.io/my-experience/blog/2026/07/02/welcome/" rel="alternate" type="text/html" title="Welcome — what I plan to write about here" /><published>2026-07-02T00:00:00-04:00</published><updated>2026-07-02T00:00:00-04:00</updated><id>https://parunr.github.io/my-experience/blog/2026/07/02/welcome</id><content type="html" xml:base="https://parunr.github.io/my-experience/blog/2026/07/02/welcome/"><![CDATA[<p>This site is a working archive of what I’ve built and what I’m learning. Sixteen-plus years of enterprise delivery — SAP, cloud, and now agentic AI — have taught me two things worth writing about:</p>
+
+<ol>
+  <li><strong>The failure mode is almost always three layers below where it surfaces.</strong> Most of what I’ve learned that’s actually useful came from staying on a problem past the point where “it should work” felt like an answer.</li>
+  <li><strong>Repeatable patterns beat one-off wins.</strong> A reference architecture that ten teams can use is worth more than a heroic delivery no one can repeat.</li>
+</ol>
+
+<p>Expect posts on:</p>
+
+<ul>
+  <li>Diagnosing silent failures in Copilot Studio, Azure AI Search indexers, Power Automate flows, and the seams between them.</li>
+  <li>Multi-agent architecture patterns — orchestration, state passing, guardrails, and what I’ve stopped trying to make work.</li>
+  <li>Delivery leadership at the intersection of technical depth and commercial narrative.</li>
+  <li>Notes from the field, unfiltered.</li>
+</ul>
+
+<p>Thanks for stopping by.</p>]]></content><author><name>Arun Reddy</name></author><summary type="html"><![CDATA[A short note on why this site exists and the kinds of things I want to write down.]]></summary></entry></feed>
